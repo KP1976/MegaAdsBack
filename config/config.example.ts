@@ -7,5 +7,5 @@ export const config = {
   dbDatabase: 'database',
   corsOrigin: 'http://localhost:3000',
 };
-*
+
  */
